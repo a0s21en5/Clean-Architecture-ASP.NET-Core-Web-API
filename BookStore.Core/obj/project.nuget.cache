@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6p2vynkMSk=",
+  "success": true,
+  "projectFilePath": "E:\\Github Hosting\\Clean-Architecture-ASP.NET-Core-Web-API\\BookStore.Core\\BookStore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ash\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
